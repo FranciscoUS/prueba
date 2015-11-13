@@ -1,5 +1,0 @@
-public void cuenta10(){
-	for(int i = 21; i<=30; 1++){
-		System.out.println(i);
-	}
-}
